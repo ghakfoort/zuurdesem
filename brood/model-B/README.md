@@ -2,6 +2,7 @@
 
 ## Ingredienten
 |**Grondstof** | **Hoeveelheid** |
+| --- | -------- |
 | Biologische tarwe patentbloem | 400 gram |
 | Biologische rogge volkorenmeel | 100 gram |
 | zout | 10 gram |
