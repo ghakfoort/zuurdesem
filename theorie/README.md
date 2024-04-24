@@ -10,6 +10,7 @@
 | gluten | de naam van een groep eiwitten die voorkomen in het endosperm van sommige granen |
 | endosperm | endosperm of kiemwit is de verzamelterm voor het weefsel in de zaden van zaadplanten en speelt een belangrijke rol bij de opslag van reservestoffen ten behoeve van de kieming, de groei van de jonge plant. |
 | metabolisme | | biochemische processen die plaatsvinden in cellen |
+|enzymen | eiwitten die worden aangemaakt in alle organismen. Ze vormen een katalysator bij het op gang bregen en versnellen van metabolisme |
 
 ## werking van gist
 Gist is in staat om gluccose te ontleden en deze om te zetten in alcohol(Ethanol) en koolstofdioxide (CO2). Het metabolisme i aeroob of anaeroob. Onder anaerobe omstandigheden is de alcoholproductie maximaal. Onder aerobe omstandigheden is de groei en vermenigvuldiging het hoogst.  
@@ -17,5 +18,5 @@ Gist is in staat om gluccose te ontleden en deze om te zetten in alcohol(Ethanol
 
 ## invloed op de werking en smaak van de desemstarter.
 
-Temperatuur, 
+Temperatuur, vochtigheid (de verhouding tussen bloem/meel en water), ingredienten (soort bloem/meel en bijvoorbeeld sap van gefermenteerd fruit ipv water)
 
