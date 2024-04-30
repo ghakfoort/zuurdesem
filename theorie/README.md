@@ -11,6 +11,7 @@
 | endosperm | endosperm of kiemwit is de verzamelterm voor het weefsel in de zaden van zaadplanten en speelt een belangrijke rol bij de opslag van reservestoffen ten behoeve van de kieming, de groei van de jonge plant. |
 | metabolisme | | biochemische processen die plaatsvinden in cellen |
 |enzymen | eiwitten die worden aangemaakt in alle organismen. Ze vormen een katalysator bij het op gang bregen en versnellen van metabolisme |
+|inhibitor / enzymremmer | een molecuul dat zich aan een enzyme bindt en de werking er van blokkeert. (voorbeeld: zoals zout de werking van gist blokkeert) |
 
 ## werking van gist
 Gist maakt van de in zetmeel aanwezige suikers CO2 en Ethanol. Het metabolisme is aeroob of anaeroob. Onder anaerobe omstandigheden is de alcoholproductie maximaal. Onder aerobe omstandigheden is de groei en vermenigvuldiging van de gisten het hoogst.  
